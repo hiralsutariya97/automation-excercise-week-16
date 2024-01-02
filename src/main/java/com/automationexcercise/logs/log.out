@@ -1,0 +1,27 @@
+2024-01-01 23:01:547 INFO  ProductPage :130 - Click Products Button[[ChromeDriver: chrome on windows (1bf0b935d2e813bf4628de45c24def58)] -> xpath: //a[@href='/products']]
+2024-01-02 12:01:668 INFO  ProductPage :130 - Click Products Button[[ChromeDriver: chrome on windows (a62a3e15f35dd5ac77a47ea72068ee6f)] -> xpath: //a[@href='/products']]
+2024-01-02 12:01:913 INFO  ProductPage :201 - Click first Addtocart Product Button[[ChromeDriver: chrome on windows (a62a3e15f35dd5ac77a47ea72068ee6f)] -> xpath: //body/section[2]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]]
+2024-01-02 12:01:147 INFO  ProductPage :211 - Click continue Shopping Button[[ChromeDriver: chrome on windows (a62a3e15f35dd5ac77a47ea72068ee6f)] -> xpath: //button[normalize-space()='Continue Shopping']]
+2024-01-02 12:01:441 INFO  HomePage :104 - Click on login Link[[ChromeDriver: chrome on windows (7d7f02ec56998ef853e031a7aa87d426)] -> xpath: //a[normalize-space()='Signup / Login']]
+2024-01-02 12:01:887 INFO  RegisterPage :128 - Verify new User Signup Text[[ChromeDriver: chrome on windows (7d7f02ec56998ef853e031a7aa87d426)] -> xpath: //h2[.='New User Signup!']]
+2024-01-02 12:01:81 INFO  RegisterPage :133 - Enter Name Box Text[[ChromeDriver: chrome on windows (7d7f02ec56998ef853e031a7aa87d426)] -> name: name]
+2024-01-02 12:01:288 INFO  RegisterPage :138 - Enter email box text.[[ChromeDriver: chrome on windows (7d7f02ec56998ef853e031a7aa87d426)] -> xpath: //input[@data-qa='signup-email']]
+2024-01-02 12:01:478 INFO  RegisterPage :143 - Click signup Button[[ChromeDriver: chrome on windows (7d7f02ec56998ef853e031a7aa87d426)] -> xpath: //button[.='Signup']]
+2024-01-02 12:01:157 INFO  RegisterPage :148 - Verify Enter Account Info Text[[ChromeDriver: chrome on windows (7d7f02ec56998ef853e031a7aa87d426)] -> xpath: //b[.='Enter Account Information']]
+2024-01-02 12:01:291 INFO  RegisterPage :153 - Click gender Button[[ChromeDriver: chrome on windows (7d7f02ec56998ef853e031a7aa87d426)] -> id: uniform-id_gender1]
+2024-01-02 12:01:435 INFO  RegisterPage :158 - Enter password Box Text.[[ChromeDriver: chrome on windows (7d7f02ec56998ef853e031a7aa87d426)] -> id: password]
+2024-01-02 12:01:590 INFO  RegisterPage :163 - Select Day
+2024-01-02 12:01:831 INFO  RegisterPage :168 - Select Month
+2024-01-02 12:01:35 INFO  RegisterPage :173 - Select Year
+2024-01-02 12:01:270 INFO  RegisterPage :183 - Enter First Name Box Text[[ChromeDriver: chrome on windows (7d7f02ec56998ef853e031a7aa87d426)] -> id: first_name]
+2024-01-02 12:01:459 INFO  RegisterPage :188 - Enter last Name Box[[ChromeDriver: chrome on windows (7d7f02ec56998ef853e031a7aa87d426)] -> id: last_name]
+2024-01-02 12:01:655 INFO  RegisterPage :193 - Enter Address 1 Box Text[[ChromeDriver: chrome on windows (7d7f02ec56998ef853e031a7aa87d426)] -> id: address1]
+2024-01-02 12:01:834 INFO  RegisterPage :198 - Select Country
+2024-01-02 12:01:998 INFO  RegisterPage :203 - Enter state Box Text[[ChromeDriver: chrome on windows (7d7f02ec56998ef853e031a7aa87d426)] -> id: state]
+2024-01-02 12:01:159 INFO  RegisterPage :208 - Enter city Box Text[[ChromeDriver: chrome on windows (7d7f02ec56998ef853e031a7aa87d426)] -> id: city]
+2024-01-02 12:01:309 INFO  RegisterPage :213 - Enter zipcode Box Text.[[ChromeDriver: chrome on windows (7d7f02ec56998ef853e031a7aa87d426)] -> id: zipcode]
+2024-01-02 12:01:457 INFO  RegisterPage :218 - Enter mobile Number Box Text[[ChromeDriver: chrome on windows (7d7f02ec56998ef853e031a7aa87d426)] -> id: mobile_number]
+2024-01-02 12:01:609 INFO  RegisterPage :228 - Click create Account Button[[ChromeDriver: chrome on windows (7d7f02ec56998ef853e031a7aa87d426)] -> xpath: //button[@data-qa='create-account']]
+2024-01-02 12:01:577 INFO  ProductPage :130 - Click Products Button[[ChromeDriver: chrome on windows (9ca641a4ea1842024f18ee9cce215413)] -> xpath: //a[@href='/products']]
+2024-01-02 12:01:958 INFO  ProductPage :221 - Verify brands Text[[ChromeDriver: chrome on windows (9ca641a4ea1842024f18ee9cce215413)] -> xpath: //h2[.='Brands']]
+2024-01-02 12:01:36 INFO  ProductPage :226 - Click polo Button[[ChromeDriver: chrome on windows (9ca641a4ea1842024f18ee9cce215413)] -> xpath: //a[@href='/brand_products/Polo']]
